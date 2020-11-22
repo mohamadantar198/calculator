@@ -1,6 +1,12 @@
 body{
     font-family: sans-serif;
-    background-color: rgb(1, 23, 45)
+    background-color: rgb(1, 23, 45);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #091921;
+    
 }
 
 #container {
